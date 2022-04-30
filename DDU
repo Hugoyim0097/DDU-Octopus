@@ -1,7 +1,7 @@
 [
   {
     "number": 0,
-    "route": "HTS",
+    "route": "HBC",
     "destZ": "暫停服務",
     "destY": "暫停服務",
     "maxPZ": "1",
@@ -9,6 +9,50 @@
     "halfpriceZ1": "0.0",
     "maxPY": "1",
     "priceY1": "0.0",
-    "halfpriceY1": "0.0"
+    "halfpriceY1": "0.0",
+    },
+    {
+    "number": 1,
+    "route": "211",
+    "destZ": "東越山頭巴士總站",
+    "destY": "洛都克",
+    "maxPZ": "4",
+    "priceZ1": "22.1",
+    "halfpriceZ1": "11.1",
+    "priceZ2": "17.4",
+    "halfpriceZ2": "8.7",
+    "priceZ3": "12.2",
+    "halfpriceZ3": "6.1",
+    "priceZ4": "5.6",
+    "halfpriceZ4": "2.8",
+    "maxPY": "4",
+    "priceY1": "22.1",
+    "halfpriceY1": "11.1",
+    "priceY2": "17.4",
+    "halfpriceY2": "8.7",
+    "priceY3": "12.2",
+    "halfpriceY3": "6.1",
+    "priceY4": "5.6",
+    "halfpriceY4": "2.8"
+    },
+    {
+    "number": 1,
+    "route": "211P",
+    "destZ": "東越山頭巴士總站",
+    "destY": "富高堡工業區",
+    "maxPZ": "3",
+    "priceZ1": "22.1",
+    "halfpriceZ1": "11.1",
+    "priceZ2": "19.4",
+    "halfpriceZ2": "9.7",
+    "priceZ3": "9.4",
+    "halfpriceZ3": "4.7"
+    "maxPY": "3",
+    "priceY1": "22.1",
+    "halfpriceY1": "11.1",
+    "priceY2": "17.4",
+    "halfpriceY2": "8.7",
+    "priceY3": "9.4",
+    "halfpriceY3": "4.7"
   }
 ]
